@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/vijayelumalai13/vkapp.git/static/css/main.682999b0.css",
-    "main.js": "/vijayelumalai13/vkapp.git/static/js/main.1f071ccf.js",
-    "static/js/453.d3b1f881.chunk.js": "/vijayelumalai13/vkapp.git/static/js/453.d3b1f881.chunk.js",
-    "static/media/about.svg": "/vijayelumalai13/vkapp.git/static/media/about.8af74a6154dbfc3d49e33ff8b16547c9.svg",
-    "static/media/vision.svg": "/vijayelumalai13/vkapp.git/static/media/vision.e8160a22318ce424ed8634e6fd27ad71.svg",
-    "static/media/mission.svg": "/vijayelumalai13/vkapp.git/static/media/mission.befe74d25289147f3392211dc497f9af.svg",
-    "static/media/services.svg": "/vijayelumalai13/vkapp.git/static/media/services.1fc8d48a6112d20242793c4a657e485d.svg",
-    "index.html": "/vijayelumalai13/vkapp.git/index.html",
-    "main.682999b0.css.map": "/vijayelumalai13/vkapp.git/static/css/main.682999b0.css.map",
-    "main.1f071ccf.js.map": "/vijayelumalai13/vkapp.git/static/js/main.1f071ccf.js.map",
-    "453.d3b1f881.chunk.js.map": "/vijayelumalai13/vkapp.git/static/js/453.d3b1f881.chunk.js.map"
+    "main.css": "/testapp/static/css/main.682999b0.css",
+    "main.js": "/testapp/static/js/main.7fe2df01.js",
+    "static/js/453.d3b1f881.chunk.js": "/testapp/static/js/453.d3b1f881.chunk.js",
+    "static/media/about.svg": "/testapp/static/media/about.8af74a6154dbfc3d49e33ff8b16547c9.svg",
+    "static/media/vision.svg": "/testapp/static/media/vision.e8160a22318ce424ed8634e6fd27ad71.svg",
+    "static/media/mission.svg": "/testapp/static/media/mission.befe74d25289147f3392211dc497f9af.svg",
+    "static/media/services.svg": "/testapp/static/media/services.1fc8d48a6112d20242793c4a657e485d.svg",
+    "index.html": "/testapp/index.html",
+    "main.682999b0.css.map": "/testapp/static/css/main.682999b0.css.map",
+    "main.7fe2df01.js.map": "/testapp/static/js/main.7fe2df01.js.map",
+    "453.d3b1f881.chunk.js.map": "/testapp/static/js/453.d3b1f881.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.682999b0.css",
-    "static/js/main.1f071ccf.js"
+    "static/js/main.7fe2df01.js"
   ]
 }
